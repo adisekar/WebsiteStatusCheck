@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>dotnet-WebsiteStatus-66B08E73-5E6B-497A-B715-8BD067C12D87</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.15" />
+    <PackageReference Include="Microsoft.Extensions.Hosting.WindowsServices" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="3.1.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="3.1.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="4.1.0" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+Open Power shell as Admin
+
+Create a service. (Go to services and start it manually)
+sc.exe create WebsiteStatus binpath= c:\dev\Learning\WorkerService\WindowsService\WebsiteStatus.exe start= auto
+
+Delete the service (Go to services and stop it first)
+sc.exe delete WebsiteStatus
+

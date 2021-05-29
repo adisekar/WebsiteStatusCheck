@@ -1,0 +1,9 @@
+2021-05-29 08:40:09.113 -04:00 [INF] Starting up the service
+2021-05-29 08:41:49.459 -04:00 [INF] Starting up the service
+2021-05-29 09:42:02.131 -04:00 [INF] Starting up the service
+2021-05-29 09:42:03.672 -04:00 [INF] The service has been started...
+2021-05-29 09:42:03.710 -04:00 [INF] Start processing HTTP request GET "http://adisekar.com/"
+2021-05-29 09:42:03.717 -04:00 [INF] Sending HTTP request GET "http://adisekar.com/"
+2021-05-29 09:42:04.697 -04:00 [INF] Received HTTP response after 975.9665ms - "OK"
+2021-05-29 09:42:04.699 -04:00 [INF] End processing HTTP request after 1001.4812ms - "OK"
+2021-05-29 09:42:04.706 -04:00 [INF] The website is up. Status code: "OK"
